@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Teacher's Classes",
+    "link": "/list/classes"
+  },
+  {
+    "title": "Teacher's Students",
+    "link": "/list/students"
+  },
+  {
+    "title": "Teacher's Lessons",
+    "link": "/list/lessons"
+  },
+  {
+    "title": "Teacher's Exams",
+    "link": "/list/exams"
+  },
+  {
+    "title": "Teacher's Assignments",
+    "link": "/list/assignments"
+  }
+]

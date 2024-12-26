@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Profile",
+    "icon": "/images/profile.png",
+    "visible": ["admin", "teacher", "student", "parent"],
+    "href": "/"
+  },
+  {
+    "text": "Settings",
+    "icon": "/images/setting.png",
+    "visible": ["admin", "teacher", "student", "parent"],
+    "href": "/"
+  },
+  {
+    "text": "Logout",
+    "icon": "/images/logout.png",
+    "visible": ["admin", "teacher", "student", "parent"],
+    "href": "/"
+  }
+]

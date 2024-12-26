@@ -1,0 +1,86 @@
+[
+  {
+    "icon": "/images/home.png",
+    "text": "Home",
+    "href": "/",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/teacher.png",
+    "text": "Teachers",
+    "href": "teacher/list",
+    "visible": ["admin", "teacher"]
+  },
+  {
+    "icon": "/images/student.png",
+    "text": "Students",
+    "href": "/student/list",
+    "visible": ["admin", "teacher"]
+  },
+  {
+    "icon": "/images/parent.png",
+    "text": "Parents",
+    "href": "/parent/list",
+    "visible": ["admin", "teacher"]
+  },
+  {
+    "icon": "/images/subject.png",
+    "text": "Subjects",
+    "href": "subject/list",
+    "visible": ["admin"]
+  },
+  {
+    "icon": "/images/class.png",
+    "text": "Classes",
+    "href": "class/list",
+    "visible": ["admin", "teacher"]
+  },
+  {
+    "icon": "/images/lesson.png",
+    "text": "Lessons",
+    "href": "lesson/list",
+    "visible": ["admin", "teacher"]
+  },
+  {
+    "icon": "/images/exam.png",
+    "text": "Exams",
+    "href": "exam/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/assignment.png",
+    "text": "Assignments",
+    "href": "assignment/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/result.png",
+    "text": "Results",
+    "href": "result/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/attendance.png",
+    "text": "Attendance",
+    "href": "attendance/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/calendar.png",
+    "text": "Events",
+    "href": "event/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/message.png",
+    "text": "Messages",
+    "href": "message/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  },
+  {
+    "icon": "/images/announcement.png",
+    "text": "Announcements",
+    "href": "announcement/list",
+    "visible": ["admin", "teacher", "student", "parent"]
+  }
+]
